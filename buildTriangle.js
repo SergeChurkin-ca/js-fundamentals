@@ -21,5 +21,4 @@ function buildTriangle(num) {
     }
     return triangle;
 }
-
 console.log(buildTriangle(20));
