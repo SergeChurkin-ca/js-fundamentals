@@ -10,9 +10,6 @@ function makeLine(length) {
     }
     return line + "\n";
 }
-// your code goes here.  Make sure you call makeLine() in your own code.
-// test your code by uncommenting the following line
-//console.log(buildTriangle(10));
 
 function buildTriangle(num) {
   var triangle = "";
